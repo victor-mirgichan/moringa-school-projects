@@ -1,0 +1,18 @@
+body {
+    background-color: lightblue;
+  }
+  p {
+      color: black;
+      font-style: italic;
+      text-align: center;
+      font-family: sans-serif;
+      line-height: normal;
+  }
+ul {
+    text-align: center;
+    list-style: inside;
+}
+footer {
+    position: fixed;
+    bottom: 0em;
+}
